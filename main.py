@@ -7,3 +7,4 @@ print("*")
 print("bye")
 
 print("HEY!")
+print("bye")
